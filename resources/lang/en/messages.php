@@ -6438,4 +6438,23 @@
   'wake_up_call_list'=>'Wake Up Call List',
 
 
+  'human_resource'=>'Human Resource',
+  'attendance'=>'Attendance',
+  'attendance_report'=>'Attendance Report',
+  'award'=>'Award',
+  'new_Award'=>'New Award',
+  'recruitment'=>'Recruitment',
+  'new_candidate'=>'New Candidate',
+  'candidate_shortlist'=>'Candidate Shortlist',
+  'interview'=>'Interview',
+  'candidate_selection'=>'Candidate Section',
+  'department'=>'Department',
+  'department_list'=>'Department List',
+  'add_division'=>'Add Division',
+  'manage_division'=>'Manage Division',
+  
+
+
+
+
 );
